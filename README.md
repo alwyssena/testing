@@ -1,2 +1,2 @@
-app.js
-register.db
+#app.js
+#register.db
